@@ -1,2 +1,1 @@
-
-https://mustafaabbasi.github.io
+index.html
